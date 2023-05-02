@@ -11,6 +11,7 @@ def print_hrllo():
 	'Jane', 
 	'Gil-dong',
 	'Dong-eum',
+	'Yeon-jin',
     ] # w/ trailing comma
     for f_name in names:
 	ptint(f'hello, {f_name}')
