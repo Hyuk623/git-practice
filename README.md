@@ -9,6 +9,7 @@ Abstruct: This project is to practice git.
 - Insert mode: press 'i' on Normal mode
 - Visual mode: press 'v' on Normal mode
 - Command mode: press ':' on Normal mode
+- insert
 
 ## Installation
 
